@@ -4,7 +4,7 @@
   ---
   # Description
 
-  This portfolio utilizies react / node libraries.
+  This portfolio utilizies mern.
 
   ---
   # Table of contents
